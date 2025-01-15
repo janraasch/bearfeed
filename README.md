@@ -1,24 +1,20 @@
-# README
+# bearfeed
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+🚧 `work in progress` 🚧
 
-Things you may want to cover:
+## to-dos
 
-* Ruby version
+* push to github, check workflows
+* add `Post` model (including WYSIWYG)
+  * Extend devcontainer image
+  * Extend production image
+* config kamal & deploy to production (does it work?) 😇
+* add `Comment`-model
+* add nice UI 🤩
+* add passwordless access
+  * remove passwords from DB
+  * remove `bcrypt` from Gemfile
 
-* System dependencies
+## license
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[UNLICENSED](https://choosealicense.com/no-permission/) © [Jan Raasch](https://www.janraasch.com)
