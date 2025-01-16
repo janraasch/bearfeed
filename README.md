@@ -4,7 +4,6 @@
 
 ## to-dos
 
-* push to github, check workflows
 * add `Post` model (including WYSIWYG)
   * Extend devcontainer image
   * Extend production image
