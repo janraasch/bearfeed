@@ -11,5 +11,20 @@ module ActiveSupport
     fixtures :all
 
     # Add more helper methods to be used by all tests here...
+    def sign_in_as(user, password: "password")
+      post session_path, params: {
+        email_address: user.email_address,
+        password: password
+      }
+
+      assert_redirected_to root_url
+      follow_redirect!
+    end
+
+    def sign_out
+      delete session_path
+      assert_redirected_to new_session_path
+      follow_redirect!
+    end
   end
 end
