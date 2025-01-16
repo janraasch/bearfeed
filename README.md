@@ -21,7 +21,7 @@
    * Add "features"-section (WYSIWYG-posts, text comments, likes?, passwordless login)
    * Add "raison d'être"-section
    * Add vision-section
-   * Add "thank you"-section (bearblog, rails, ai for tests?)
+   * Add "thank you"-section (bearblog, rails, ai for tests?, apple image playground)
 
 ## license
 
