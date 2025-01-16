@@ -4,7 +4,7 @@
 
 ## to-dos
 
-* add `Post` model (including WYSIWYG)
+* add WYSIWYG to `Post`-model
   * Extend devcontainer image
   * Extend production image
 * config kamal & deploy to production (does it work?) 😇
