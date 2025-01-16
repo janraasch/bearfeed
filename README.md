@@ -18,7 +18,7 @@
 * straighten out README
    * Add Setup-section
    * Add screenshots
-   * Add "features"-section (WYSIWYG-posts, text comments, likes?, passwordless login, forgetful (14.days?))
+   * Add "features"-section (WYSIWYG-posts, text comments, likes?, passwordless login, forgetful (14.days?), no notifications)
    * Add "raison d'être"-section
    * Add vision-section
    * Add "thank you"-section (friendfeed, bearblog, rails, ai for tests?, apple image playground)
