@@ -6,7 +6,6 @@
 
 * Deploy to production (edit kamal.config)
 * Check WYSIWYG file uploads/previews on production (possibly: extend production image for previews)
-* config kamal & deploy to production (does it work?) 😇
 * add `Comment`-model
 * add nice UI 🤩
 * add furry favicon
