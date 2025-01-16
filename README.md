@@ -5,7 +5,8 @@
 ## to-dos
 
 * add `Comment`-model
-* add nice UI 🤩
+* add nice UI 🤩 - using bear blog css
+  * or rather go with more colorful mvp.css, or water.css?
 * add furry favicon
 * add passwordless access
   * remove passwords from DB
