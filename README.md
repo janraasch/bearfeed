@@ -11,6 +11,7 @@
 * config kamal & deploy to production (does it work?) 😇
 * add `Comment`-model
 * add nice UI 🤩
+* add furry favicon
 * add passwordless access
   * remove passwords from DB
   * remove `bcrypt` from Gemfile
