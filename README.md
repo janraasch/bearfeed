@@ -22,6 +22,7 @@
    * Add "raison d'être"-section
    * Add vision-section
    * Add "thank you"-section (friendfeed, bearblog, rails, ai for tests?, apple image playground)
+   * Add development section
 
 ## references
 
