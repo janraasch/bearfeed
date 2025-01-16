@@ -4,8 +4,6 @@
 
 ## to-dos
 
-* Deploy to production (edit kamal.config)
-* Check WYSIWYG file uploads/previews on production (possibly: extend production image for previews)
 * add `Comment`-model
 * add nice UI 🤩
 * add furry favicon
@@ -21,6 +19,7 @@
    * Add "thank you"-section (friendfeed, bearblog, rails, ai for tests?, apple image playground)
    * Add development section
 * add auto-merge for minor dependabot updates
+* what about PDF & other non-image uploads? (on production & in devcontainer)
 
 ## references
 
