@@ -21,7 +21,11 @@
    * Add "features"-section (WYSIWYG-posts, text comments, likes?, passwordless login, forgetful (14.days?))
    * Add "raison d'être"-section
    * Add vision-section
-   * Add "thank you"-section (bearblog, rails, ai for tests?, apple image playground)
+   * Add "thank you"-section (friendfeed, bearblog, rails, ai for tests?, apple image playground)
+
+## references
+
+- [I like it, I like it](http://blog.friendfeed.com/2007/10/i-like-it-i-like-it.html)
 
 ## license
 
