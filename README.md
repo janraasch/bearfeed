@@ -1,4 +1,4 @@
-# bearfeed
+# bearfeed [![CI](https://github.com/janraasch/bearfeed/actions/workflows/ci.yml/badge.svg)](https://github.com/janraasch/bearfeed/actions/workflows/ci.yml)
 
 🚧 `work in progress` 🚧
 
